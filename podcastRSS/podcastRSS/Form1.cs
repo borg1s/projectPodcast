@@ -24,9 +24,7 @@ namespace podcastRSS
 
         private void label1_Click(object sender, EventArgs e)
         {
-            //det här en annan kommentar... Kristian har skrivit detta. jag lovar och svär på koranen
-
-            //hej 
+            //det här en annan kommentar... Kristian har skrivit detta. jag lovar och svär på koranen <--- lacist?
         }
 
         private void button1_Click(object sender, EventArgs e)
